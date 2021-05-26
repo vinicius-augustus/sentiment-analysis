@@ -47,7 +47,7 @@ Automatic methods, contrary to rule-based systems, don't rely on manually crafte
 
 - Classification Algorithms
   - Naïve Bayes: a family of probabilistic algorithms that uses Bayes’s Theorem to predict the category of a text.
-Linear Regression: a very well-known algorithm in statistics used to predict some value (Y) given a set of features (X).
+  - Linear Regression: a very well-known algorithm in statistics used to predict some value (Y) given a set of features (X).
   - Support Vector Machines: a non-probabilistic model which uses a representation of text examples as points in a multidimensional space. Examples of different categories (sentiments) are mapped to distinct regions within that space. Then, new texts are assigned a category based on similarities with existing texts and the regions they’re mapped to.
   - Deep Learning: a diverse set of algorithms that attempt to mimic the human brain, by employing artificial neural networks to process data.
 
